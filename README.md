@@ -58,5 +58,19 @@
 
 ---
 
+## 🚀 Популярные репозитории
+
+[![Top Repos](https://github-readme-stats.vercel.app/api?username=YDJUDGE&show_icons=true&theme=tokyonight&count_private=true&hide=README)](https://github.com/YDJUDGE?tab=repositories)
+
+---
+
+## 📊 Активность на GitHub
+
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=YDJUDGE&theme=tokyonight)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=YDJUDGE&theme=tokyonight)
+
+---
+
 ## 📫 Контакты
 [![Telegram](https://img.shields.io/badge/Telegram-@YDJUDGE-blue?style=flat&logo=telegram)](https://t.me/YDJUDGE)
