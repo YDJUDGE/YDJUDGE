@@ -64,11 +64,9 @@
 
 ---
 
-## 📊 Активность на GitHub
+## 📊 Моя активность на GitHub
 
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=YDJUDGE&theme=tokyonight)
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=YDJUDGE&theme=tokyonight)
+![YDJUDGE's GitHub contributions](https://github.com/YDJUDGE.png?size=150)
 
 ---
 
