@@ -66,7 +66,7 @@
 
 ## 📊 Моя активность на GitHub
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YDJUDGE&theme=github)
+![GitHub Streak](https://streak-stats.demolab.com/?user=YDJUDGE&theme=tokyonight)
 
 ---
 
