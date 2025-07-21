@@ -14,4 +14,4 @@
 ---
 
 ## 📫 Связаться со мной
-[![Telegram](https://img.shields.io/badge/Telegram-@YDJUDGE-blue?style=flat&logo=telegram)](https://t.me/YDJUDGE)
+[![Telegram](https://img.shields.io/badge/Telegram-@YDJUDGE-blue?style=flat&logo=telegram)](https://t.me/EchoPulse221)
