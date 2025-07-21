@@ -64,11 +64,5 @@
 
 ---
 
-## 📊 Моя активность на GitHub
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=YDJUDGE&theme=tokyonight)
-
----
-
 ## 📫 Контакты
 [![Telegram](https://img.shields.io/badge/Telegram-@YDJUDGE-blue?style=flat&logo=telegram)](https://t.me/YDJUDGE)
