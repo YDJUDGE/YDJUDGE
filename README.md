@@ -66,7 +66,7 @@
 
 ## 📊 Моя активность на GitHub
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YDJUDGE&theme=tokyonight)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=YDJUDGE&theme=tokyonight)
 
 ---
 
