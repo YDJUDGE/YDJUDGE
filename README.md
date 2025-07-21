@@ -66,7 +66,7 @@
 
 ## 📊 Моя активность на GitHub
 
-![YDJUDGE's GitHub contributions](https://github.com/YDJUDGE.png?size=150)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YDJUDGE&theme=github)
 
 ---
 
