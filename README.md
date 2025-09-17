@@ -49,20 +49,5 @@
 ![Requests](https://img.shields.io/badge/-Requests-20232A?style=flat)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium)
 
----
-
-## 📈 GitHub статистика
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YDJUDGE&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YDJUDGE&layout=compact&theme=tokyonight)
-
----
-
-## 🚀 Популярные репозитории
-
-[![Top Repos](https://github-readme-stats.vercel.app/api?username=YDJUDGE&show_icons=true&theme=tokyonight&count_private=true&hide=README)](https://github.com/YDJUDGE?tab=repositories)
-
----
-
 ## 📫 Контакты
 [![Telegram](https://img.shields.io/badge/Telegram-@YDJUDGE-blue?style=flat&logo=telegram)](https://t.me/YDJUDGE)
